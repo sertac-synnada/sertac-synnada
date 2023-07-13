@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sertaç Cebeci</h1>
+<h1 align="center">Sertaç Cebeci</h1>
 <h3 align="center">I am a product engineer at Synnada</h3>
 
 - 🔭 I’m currently working on [Synnada](https://github.com/synnada-ai)
